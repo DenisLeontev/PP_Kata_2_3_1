@@ -4,7 +4,7 @@ public class Car {
     private String model;
     private int series;
     private String number;
-
+ // комент удалить
     public Car() {
 
     }
