@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PP_2_2_2_spring-mvc_new" />
-        <module name="PP_2_2_2_new_spring-mvc" />
+        <module name="PP_Kata_2_3_1" />
         <module name="spring-mvc" />
+        <module name="Kata_PP_2_3_1" />
+        <module name="Kata231" />
       </profile>
     </annotationProcessing>
   </component>
